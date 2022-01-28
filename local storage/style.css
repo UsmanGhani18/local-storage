@@ -1,0 +1,23 @@
+* {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+background: rgb(193,62,62);
+background: linear-gradient(139deg, rgb(63, 63, 63) 50%, rgb(89, 201, 94) 100%); overflow-x: hidden;
+color: rgb(255, 255, 255);
+}
+fieldset{
+    margin: 100px;
+    margin-left: 40%;
+    margin-right: 40%;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+    border-radius: 2px;
+
+}
